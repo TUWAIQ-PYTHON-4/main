@@ -90,7 +90,7 @@ Hi Everyone, Welcome to Python Backend bootcamp. This repository contains inform
 |Day|Subject|Resources|Lab|Assignment|
 | :- | :- | :- | :- | :- |
 |Day 1|<p>- Virtual Environments </p><p>- PIP</p><p>- Introduction to Django</p><p>- Creating the first Django Project</p><p>- MVT </p>|- [Web Development with Django](https://github.com/Tuwaiq-Python/main/tree/main/Django/Day1)||||
-|Day 2|<p>- Views and Templates</p><p>- Router (URL Mapping)</p><p>- Database setup and connection</p><p>- PostgreSQL databases</p>||||
+|Day 2|<p>- Views and Templates</p><p>- Router (URL Mapping)</p><p>- Database setup and connection</p><p>- PostgreSQL databases</p>|- [Django Databases](https://github.com/Tuwaiq-Python/main/tree/main/Django/Day2)|||
 |Day 3|<p>- Models </p><p>- ORM and Migrations</p><p>- CRUD on database</p>||||
 |Day 4|<p>- Django Admin</p><p>- CRUD on Admin</p>||||
 |Day 5|<p>- Static Files</p><p>- Media Files</p><p>- Unit Project</p>||||
